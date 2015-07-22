@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "description": "C'est par où le resto ?",
   "repository": "https://github.com/xkoma/",
+  "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "^2.0.0",
