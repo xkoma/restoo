@@ -11,3 +11,21 @@ Choix technologiques :
 
 Roadmap :
 https://tree.taiga.io/project/xkoma-kanban/kanban
+
+
+# Partie front :
+
+	Basé sur material-start, clone du repo git :
+		https://github.com/angular/material-start
+
+	Installation (dans le dossier du projet) :
+		npm install
+		bower install angular-material
+		sudo npm install -g live-server
+
+	Lancement du serveur web :
+		cd app
+		live-server
+
+	Instructions détaillées sur :
+		https://github.com/angular/material-start/blob/master/README.md
